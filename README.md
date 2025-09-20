@@ -1,9 +1,5 @@
 
 # IPL Data Analysis App
-   [main GitHub repo](https://github.com/machinist183/IPLDataAnalysisApp).
-
-   [Application Link](http://172.105.41.201:8501/)
-#### -- Project Status: [Active]
           
 ## Project Intro/Objective
 This project is made for analysing the last 12 season of IPL ball by ball dataset containing 225k rows . It has various levels of comparing players based on match , season , venue and bowlers. The project can be usefull getting insights about the players based on season and venue which can be helpfull in selection of fantasy teams . 
